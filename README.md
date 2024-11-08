@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRU8sOl-pLVoZGWBODPTy-56PeVXMd-gglQ&s)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRU8sOl-pLVoZGWBODPTy-56PeVXMd-gglQ&s)
 <h1 align="center">Hi 👋, I'm Abinithi.S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
